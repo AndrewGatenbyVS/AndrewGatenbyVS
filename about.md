@@ -20,3 +20,5 @@ I have a recent convert to Android (<3 the HTC One), am the proud owner of numer
 Another change.
 
 One more - auto push?
+
+Another, hopefully auto push?
